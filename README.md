@@ -46,8 +46,8 @@ And then include it in your `pom.xml`:
 
 ```xml
 <dependency>
-  <groupId>com.airbnb</groupId>
-  <artifactId>facebook-udfs</artifactId>
+  <groupId>com.putian</groupId>
+  <artifactId>putian-udfs</artifactId>
   <version>1.1.5</version>
 </dependency>
 ```
